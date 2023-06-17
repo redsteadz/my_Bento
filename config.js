@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'freecodecamp.org',
+			name: 'FreeCodeCamp',
+			icon: 'code-2',
+			link: 'https://freecodecamp.org/',
 		},
 		{
 			id: '4',
@@ -169,12 +169,12 @@ const CONFIG = {
 					link: 'https://www.dribbble.com',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'YouTube Studio',
+					link: 'https://studio.youtube.com/channel/UC5K3hAJ5M1lfxPaKiijmo0Q',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Code_Dojo',
+					link: 'https://www.codewars.com/dashboard',
 				},
 			],
 		},
